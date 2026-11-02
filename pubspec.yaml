@@ -1,0 +1,40 @@
+name: green_life
+description: "GreenLife — Smart Eco-Friendly Lifestyle Portal (TechWiz 7)"
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  video_player: ^2.14.0
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    # Image and media assets
+    - assets/images/
+    - assets/images/splash.jpg
+    - assets/images/logo.png
+    - assets/images/favicon.png
+    - assets/images/loader.mp4
+    # Local JSON data assets (no backend required — TechWiz 7 compliant)
+    - assets/data/eco_tips.json
+    - assets/data/recycling_guide.json
+    - assets/data/green_products.json
+    - assets/data/challenges.json

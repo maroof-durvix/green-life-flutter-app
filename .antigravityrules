@@ -1,0 +1,17 @@
+AI Assistant & Developer Rules — GreenLife (TechWiz 7)
+
+[TechWiz 7 Compliance]
+1. NO external database dependencies or server-side API requirements.
+2. ALL data must be loaded asynchronously from local JSON assets (`assets/data/`).
+3. App must be 100% custom-coded; NEVER use pre-built full-app templates.
+4. AI feature MUST be simple, self-contained, and explainable in presentation.
+
+[UI & Theme Guidelines]
+5. Enforce Dark Mode UI (`#121212`) with off-white typography (`#F5F5F5`) and Green Accents (`#2ECC71`).
+6. NEVER hardcode colors or inline string literals inside UI build methods.
+7. Use touch-friendly padding and responsive widgets suitable for mobile/web.
+
+[Code Quality & Execution]
+8. Keep business logic outside Widget build trees using clean state controllers.
+9. Ensure session-based state (e.g., Eco Score calculation) works smoothly without errors.
+10. Code must compile with ZERO warnings on Chrome / Android targets.
