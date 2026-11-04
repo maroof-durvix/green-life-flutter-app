@@ -1,11 +1,12 @@
 {
-    "name": "green_life",
-    "short_name": "green_life",
-    "start_url": ".",
+    "name": "GreenLife — Eco-Friendly Lifestyle Portal",
+    "short_name": "GreenLife",
+    "start_url": "/",
+    "scope": "/",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#2E7D32",
+    "theme_color": "#2E7D32",
+    "description": "GreenLife is a smart eco-friendly lifestyle portal for recycling guides, eco challenges, and green living.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
