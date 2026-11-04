@@ -1,0 +1,114 @@
+[
+  {
+    "id": "tip_001",
+    "category": "Energy",
+    "title": "Switch to LED Bulbs",
+    "description": "Replace traditional incandescent bulbs with LED alternatives. LEDs use up to 75% less energy and last 25 times longer, significantly reducing your electricity bill and carbon footprint.",
+    "iconName": "lightbulb"
+  },
+  {
+    "id": "tip_002",
+    "category": "Energy",
+    "title": "Unplug Idle Electronics",
+    "description": "Devices on standby still consume 'phantom power'. Unplugging chargers, TVs, and appliances when not in use can reduce your home energy use by up to 10%.",
+    "iconName": "power_off"
+  },
+  {
+    "id": "tip_003",
+    "category": "Energy",
+    "title": "Use Smart Power Strips",
+    "description": "Smart power strips automatically cut power to devices in standby mode, preventing phantom energy drain across multiple connected electronics simultaneously.",
+    "iconName": "electrical_services"
+  },
+  {
+    "id": "tip_004",
+    "category": "Energy",
+    "title": "Set Your Thermostat Wisely",
+    "description": "Lowering your heating by just 1°C can cut your heating bill by up to 10%. Use a programmable thermostat to automatically adjust temperatures when you sleep or leave home.",
+    "iconName": "thermostat"
+  },
+  {
+    "id": "tip_005",
+    "category": "Water",
+    "title": "Fix Leaky Taps Immediately",
+    "description": "A dripping tap can waste over 15 litres of water per day. Fixing leaks promptly is one of the simplest and most impactful water conservation actions you can take.",
+    "iconName": "water_drop"
+  },
+  {
+    "id": "tip_006",
+    "category": "Water",
+    "title": "Take Shorter Showers",
+    "description": "Reducing your shower time from 10 to 5 minutes can save up to 40 litres of water per shower. Consider using a timer to keep track of your shower duration.",
+    "iconName": "shower"
+  },
+  {
+    "id": "tip_007",
+    "category": "Water",
+    "title": "Collect Rainwater for Plants",
+    "description": "Install a rain barrel under a downspout to collect rainwater. This free, chemical-free water is ideal for watering your garden and reduces demand on municipal water supplies.",
+    "iconName": "water"
+  },
+  {
+    "id": "tip_008",
+    "category": "Water",
+    "title": "Run Full Loads Only",
+    "description": "Run your dishwasher and washing machine only when fully loaded. This maximises efficiency and can save thousands of litres of water over the course of a year.",
+    "iconName": "local_laundry_service"
+  },
+  {
+    "id": "tip_009",
+    "category": "Recycling",
+    "title": "Rinse Before Recycling",
+    "description": "Food contamination is the leading cause of recyclables being rejected. Give containers a quick rinse to ensure your paper, plastic, and metal items are accepted at recycling facilities.",
+    "iconName": "recycling"
+  },
+  {
+    "id": "tip_010",
+    "category": "Recycling",
+    "title": "Know Your Plastic Codes",
+    "description": "Not all plastics are recyclable curbside. Look for the recycling triangle with numbers 1 (PET) and 2 (HDPE) — these are most widely accepted. Avoid codes 3, 6, and 7 when possible.",
+    "iconName": "info"
+  },
+  {
+    "id": "tip_011",
+    "category": "Recycling",
+    "title": "Compost Food Waste",
+    "description": "Up to 30% of household waste is organic matter that could be composted. Composting reduces landfill methane emissions and creates rich, free fertiliser for your garden.",
+    "iconName": "grass"
+  },
+  {
+    "id": "tip_012",
+    "category": "Recycling",
+    "title": "E-Waste Drop-Off Points",
+    "description": "Old phones, laptops, and batteries contain toxic materials that harm ecosystems if landfilled. Find your nearest certified e-waste drop-off point for safe, responsible disposal.",
+    "iconName": "devices"
+  },
+  {
+    "id": "tip_013",
+    "category": "Sustainable Shopping",
+    "title": "Bring Reusable Bags",
+    "description": "A single reusable bag replaces hundreds of single-use plastic bags over its lifetime. Keep one folded in your pocket or car so you're always prepared at checkout.",
+    "iconName": "shopping_bag"
+  },
+  {
+    "id": "tip_014",
+    "category": "Sustainable Shopping",
+    "title": "Buy Local & Seasonal Produce",
+    "description": "Food transported long distances contributes significantly to greenhouse gas emissions. Choosing local and seasonal produce supports farmers in your community and dramatically cuts food miles.",
+    "iconName": "local_grocery_store"
+  },
+  {
+    "id": "tip_015",
+    "category": "Sustainable Shopping",
+    "title": "Choose Products With Less Packaging",
+    "description": "Before buying, consider the amount of packaging involved. Choose items with minimal, recyclable, or compostable packaging. Buying in bulk is often the most packaging-efficient option.",
+    "iconName": "inventory_2"
+  },
+  {
+    "id": "tip_016",
+    "category": "Sustainable Shopping",
+    "title": "Support Certified Eco Brands",
+    "description": "Look for certifications like Fair Trade, B Corp, Rainforest Alliance, or organic labels when shopping. These marks guarantee the product meets verified social and environmental standards.",
+    "iconName": "verified"
+  }
+]

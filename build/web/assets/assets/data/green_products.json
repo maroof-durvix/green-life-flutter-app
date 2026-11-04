@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Solar Energy Lamp",
+    "category": "Energy",
+    "description": "Eco-friendly solar powered lamp for sustainable energy use.",
+    "price": 2500,
+    "imageUrl": "assets/images/Energy.jpg.jpeg"
+  },
+  {
+    "name": "Organic Garden Kit",
+    "category": "Garden",
+    "description": "Complete eco-friendly gardening kit for home plants.",
+    "price": 1800,
+    "imageUrl": "assets/images/Garden.jpg.jpeg"
+  },
+  {
+    "name": "Eco Cleaning Set",
+    "category": "Household",
+    "description": "Reusable and eco-friendly cleaning products for your home.",
+    "price": 1500,
+    "imageUrl": "assets/images/Household.jpg.jpeg"
+  },
+  {
+    "name": "Reusable Water Bottle",
+    "category": "Hydration",
+    "description": "Durable reusable bottle that helps reduce plastic waste.",
+    "price": 1200,
+    "imageUrl": "assets/images/Hydration.jpg.jpeg"
+  },
+  {
+    "name": "Bamboo Kitchen Set",
+    "category": "Kitchen",
+    "description": "Eco-friendly bamboo kitchen tools for sustainable cooking.",
+    "price": 2200,
+    "imageUrl": "assets/images/Kitchen.jpg.jpeg"
+  },
+  {
+    "name": "Natural Care Kit",
+    "category": "Personal Care",
+    "description": "Natural and sustainable personal care essentials.",
+    "price": 1800,
+    "imageUrl": "assets/images/Personal_Care.jpg.jpeg"
+  },
+  {
+    "name": "Reusable Shopping Bag",
+    "category": "Shopping",
+    "description": "Strong reusable shopping bag to reduce plastic usage.",
+    "price": 600,
+    "imageUrl": "assets/images/Shopping.jpg.jpeg"
+  },
+  {
+    "name": "Recycled Paper Notebook",
+    "category": "Stationery",
+    "description": "Eco-friendly notebook made from recycled paper.",
+    "price": 500,
+    "imageUrl": "assets/images/Stationery.jpg.jpeg"
+  }
+]

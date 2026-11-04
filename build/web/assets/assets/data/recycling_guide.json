@@ -1,0 +1,162 @@
+[
+  {
+    "id": "rec_001",
+    "name": "Newspaper",
+    "category": "Paper",
+    "disposalMethod": "Place in your blue recycling bin. Keep dry — wet paper cannot be recycled. Remove any plastic wrappers before recycling.",
+    "iconName": "newspaper",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_002",
+    "name": "Cardboard Box",
+    "category": "Paper",
+    "disposalMethod": "Flatten all boxes before placing in the recycling bin. Remove any tape, labels, or foam inserts. Keep dry.",
+    "iconName": "inventory_2",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_003",
+    "name": "Coffee Cup",
+    "category": "Paper",
+    "disposalMethod": "Most coffee cups have a plastic lining and cannot be recycled in standard paper bins. Check for specialised coffee cup collection points at cafes.",
+    "iconName": "coffee",
+    "isRecyclable": false
+  },
+  {
+    "id": "rec_004",
+    "name": "PET Water Bottle (Code 1)",
+    "category": "Plastic",
+    "disposalMethod": "Rinse thoroughly, remove the cap and label if possible, then crush and place in recycling. Code 1 plastics are widely accepted.",
+    "iconName": "water_bottle_full",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_005",
+    "name": "Plastic Bag",
+    "category": "Plastic",
+    "disposalMethod": "Do NOT place in curbside recycling — plastic bags jam sorting machinery. Return to supermarket collection points or switch to reusable bags.",
+    "iconName": "shopping_bag",
+    "isRecyclable": false
+  },
+  {
+    "id": "rec_006",
+    "name": "HDPE Milk Jug (Code 2)",
+    "category": "Plastic",
+    "disposalMethod": "Rinse well and place in your recycling bin. Code 2 plastics are among the most widely recycled — accepted at most facilities.",
+    "iconName": "local_drink",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_007",
+    "name": "Polystyrene (Styrofoam)",
+    "category": "Plastic",
+    "disposalMethod": "Not accepted in curbside recycling. Look for specialised drop-off points. Alternatively, minimise purchase of products packaged in polystyrene.",
+    "iconName": "remove_shopping_cart",
+    "isRecyclable": false
+  },
+  {
+    "id": "rec_008",
+    "name": "Glass Bottle",
+    "category": "Glass",
+    "disposalMethod": "Rinse and place in your glass recycling bin. Remove lids (recycle metal lids separately). Broken glass should be wrapped in newspaper before disposal for safety.",
+    "iconName": "liquor",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_009",
+    "name": "Glass Jar",
+    "category": "Glass",
+    "disposalMethod": "Remove the lid and rinse the jar. Metal lids can go in the metal recycling. Place the jar in the glass bin — both clear and coloured glass are accepted.",
+    "iconName": "water_bottle_large",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_010",
+    "name": "Broken Glassware",
+    "category": "Glass",
+    "disposalMethod": "Drinking glasses and Pyrex/oven-safe dishes have different melting points than bottle glass and cannot be recycled together. Wrap safely and place in general waste.",
+    "iconName": "dangerous",
+    "isRecyclable": false
+  },
+  {
+    "id": "rec_011",
+    "name": "Aluminium Can",
+    "category": "Metal",
+    "disposalMethod": "Rinse and place in your recycling bin. Aluminium can be recycled indefinitely with only 5% of the energy needed to produce new aluminium. Always recycle!",
+    "iconName": "outdoor_grill",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_012",
+    "name": "Steel Food Tin",
+    "category": "Metal",
+    "disposalMethod": "Rinse thoroughly and place in recycling. Steel tins are 100% recyclable and highly valuable to the recycling industry. No need to remove labels.",
+    "iconName": "kitchen",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_013",
+    "name": "Aerosol Can",
+    "category": "Metal",
+    "disposalMethod": "Ensure the can is completely empty — never puncture or crush. Empty aerosols are accepted in most metal recycling. Check your local guidelines.",
+    "iconName": "cleaning_services",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_014",
+    "name": "Food Scraps",
+    "category": "Organic",
+    "disposalMethod": "Compost in a home compost bin or food waste collection caddy. Avoid composting meat, fish, and dairy in open compost bins to prevent pests.",
+    "iconName": "compost",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_015",
+    "name": "Garden Waste",
+    "category": "Organic",
+    "disposalMethod": "Place in your garden waste bin, home compost, or take to a green waste facility. Grass clippings, leaves, and small branches are all compostable.",
+    "iconName": "park",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_016",
+    "name": "Teabags",
+    "category": "Organic",
+    "disposalMethod": "Many teabags contain plastic mesh and should go in general waste. Look for brands with plastic-free, compostable bags — these can be composted whole.",
+    "iconName": "emoji_food_beverage",
+    "isRecyclable": false
+  },
+  {
+    "id": "rec_017",
+    "name": "Smartphone",
+    "category": "E-Waste",
+    "disposalMethod": "Never put in regular bins — smartphones contain toxic lithium, mercury, and lead. Return to a certified e-waste facility, mobile network store, or manufacturer take-back scheme.",
+    "iconName": "smartphone",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_018",
+    "name": "Laptop / Computer",
+    "category": "E-Waste",
+    "disposalMethod": "Erase all personal data first. Take to a certified e-waste recycler, electronics retailer drop-off, or donate if still functional. Do not place in household bins.",
+    "iconName": "laptop",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_019",
+    "name": "Batteries (AA/AAA)",
+    "category": "E-Waste",
+    "disposalMethod": "Household batteries contain toxic chemicals. Drop off at supermarket battery collection points, electronics retailers, or hazardous waste facilities. Never landfill.",
+    "iconName": "battery_alert",
+    "isRecyclable": true
+  },
+  {
+    "id": "rec_020",
+    "name": "Printer Cartridge",
+    "category": "E-Waste",
+    "disposalMethod": "Many manufacturers and office supply stores offer free cartridge return schemes. Some charities also collect cartridges for fundraising. Never place in general waste.",
+    "iconName": "print",
+    "isRecyclable": true
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "chal_001",
+    "title": "Zero Single-Use Plastic Day",
+    "description": "Go the entire day without using any single-use plastic items — including bags, straws, bottles, and packaging. Plan your meals and shopping in advance to make this easier.",
+    "type": "daily",
+    "points": 20
+  },
+  {
+    "id": "chal_002",
+    "title": "5-Minute Shorter Shower",
+    "description": "Shorten today's shower by at least 5 minutes compared to your usual time. Set a timer on your phone. This simple habit saves approximately 40 litres of water per shower.",
+    "type": "daily",
+    "points": 10
+  },
+  {
+    "id": "chal_003",
+    "title": "Walk or Cycle Instead of Drive",
+    "description": "For any journey under 3 km today, choose to walk or cycle instead of using a car or motorbike. Reduces CO₂ emissions while improving your health.",
+    "type": "daily",
+    "points": 15
+  },
+  {
+    "id": "chal_004",
+    "title": "Meatless Monday",
+    "description": "Skip meat for all of today's meals. Choosing a plant-based diet even one day a week can save up to 1.5 kg of CO₂ emissions — equivalent to driving 10 km.",
+    "type": "daily",
+    "points": 20
+  },
+  {
+    "id": "chal_005",
+    "title": "Unplug All Standby Devices",
+    "description": "Before bed tonight, unplug every device that is not in active use — TVs, chargers, microwaves, and desktop computers. Prevents phantom energy drain overnight.",
+    "type": "daily",
+    "points": 10
+  },
+  {
+    "id": "chal_006",
+    "title": "Carry a Reusable Bag Today",
+    "description": "Take a reusable shopping or tote bag with you everywhere today. Refuse plastic bags at every checkout and purchase point you visit.",
+    "type": "daily",
+    "points": 10
+  },
+  {
+    "id": "chal_007",
+    "title": "Recycle 5 Items Correctly",
+    "description": "Sort and correctly dispose of at least 5 household items into the right recycling stream today. Check that they are clean and dry before placing in the bin.",
+    "type": "daily",
+    "points": 15
+  },
+  {
+    "id": "chal_008",
+    "title": "Start a Home Compost",
+    "description": "Set up a compost bin or kitchen caddy this week and begin collecting food scraps. By end of week you should have your first batch of organic matter breaking down.",
+    "type": "weekly",
+    "points": 50
+  },
+  {
+    "id": "chal_009",
+    "title": "7-Day Eco Shopping Audit",
+    "description": "Track every purchase you make this week and flag which items had unnecessary packaging or non-eco alternatives. At the end of the week, commit to 3 swaps you will make permanently.",
+    "type": "weekly",
+    "points": 60
+  },
+  {
+    "id": "chal_010",
+    "title": "Plant a Tree or Herb",
+    "description": "Plant at least one tree, shrub, or herb plant this week — either in your garden, a pot, or as part of a community planting initiative. Document it with a photo.",
+    "type": "weekly",
+    "points": 75
+  }
+]
